@@ -1,0 +1,1265 @@
+﻿Log file open, 05/29/19 12:02:30
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: VR_Project
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.218723
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Intermediate/Config/CoalescedSourceConfigs/Engine.ini]
+LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Intermediate/Config/CoalescedSourceConfigs/EditorSettings.ini]
+LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Intermediate/Config/CoalescedSourceConfigs/Compat.ini]
+LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Intermediate/Config/CoalescedSourceConfigs/Lightmass.ini]
+LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Intermediate/Config/CoalescedSourceConfigs/Scalability.ini]
+LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Intermediate/Config/CoalescedSourceConfigs/Hardware.ini]
+LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Intermediate/Config/CoalescedSourceConfigs/GameUserSettings.ini]
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemOculus
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Intermediate/Config/CoalescedSourceConfigs/PhysXVehicles.ini]
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.113s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-6300HQ CPU @ 2.30GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.05.29-19.02.31:465][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.05.29-19.02.31:465][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.05.29-19.02.31:465][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/shumw/Documents/Unreal Projects/VRProject/Saved/Config/Windows/Engine.ini]
+[2019.05.29-19.02.31:465][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.05.29-19.02.31:465][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2019.05.29-19.02.31:466][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/shumw/Documents/Unreal Projects/VRProject/Saved/Config/Windows/Engine.ini]
+[2019.05.29-19.02.31:466][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/shumw/Documents/Unreal Projects/VRProject/Saved/Config/Windows/Engine.ini]
+[2019.05.29-19.02.31:466][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.05.29-19.02.31:466][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.05.29-19.02.31:466][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.05.29-19.02.31:466][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.05.29-19.02.31:466][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.05.29-19.02.31:466][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.05.29-19.02.31:466][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.05.29-19.02.31:466][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.05.29-19.02.31:466][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.05.29-19.02.31:466][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.05.29-19.02.31:466][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.05.29-19.02.31:466][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.05.29-19.02.31:466][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.05.29-19.02.31:466][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/shumw/Documents/Unreal Projects/VRProject/Saved/Config/Windows/Engine.ini]
+[2019.05.29-19.02.31:466][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.05.29-19.02.31:466][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.05.29-19.02.31:466][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.05.29-19.02.31:466][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.05.29-19.02.31:466][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.05.29-19.02.31:466][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.05.29-19.02.31:466][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.05.29-19.02.31:467][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.05.29-19.02.31:467][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.05.29-19.02.31:467][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.05.29-19.02.31:467][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.05.29-19.02.31:467][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.05.29-19.02.31:467][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.05.29-19.02.31:467][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.05.29-19.02.31:467][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/shumw/Documents/Unreal Projects/VRProject/Saved/Config/Windows/Engine.ini]
+[2019.05.29-19.02.31:467][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/shumw/Documents/Unreal Projects/VRProject/Saved/Config/Windows/Engine.ini]
+[2019.05.29-19.02.31:475][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/shumw/Documents/Unreal Projects/VRProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-19.02.31:475][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.29-19.02.31:475][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.29-19.02.31:475][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/shumw/Documents/Unreal Projects/VRProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-19.02.31:475][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.29-19.02.31:475][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/shumw/Documents/Unreal Projects/VRProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-19.02.31:475][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.29-19.02.31:475][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.29-19.02.31:475][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.29-19.02.31:475][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.29-19.02.31:475][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.29-19.02.31:475][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.29-19.02.31:475][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.29-19.02.31:475][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.29-19.02.31:475][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.29-19.02.31:475][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.29-19.02.31:475][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.29-19.02.31:475][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.29-19.02.31:475][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.29-19.02.31:475][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.29-19.02.31:475][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.29-19.02.31:475][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.29-19.02.31:476][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.29-19.02.31:476][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.29-19.02.31:476][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/shumw/Documents/Unreal Projects/VRProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-19.02.31:476][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.29-19.02.31:476][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.29-19.02.31:476][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.29-19.02.31:476][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.29-19.02.31:476][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.29-19.02.31:476][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.29-19.02.31:476][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.29-19.02.31:476][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.29-19.02.31:476][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.29-19.02.31:476][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.29-19.02.31:476][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.29-19.02.31:476][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.29-19.02.31:476][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.29-19.02.31:476][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.29-19.02.31:476][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.29-19.02.31:476][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.29-19.02.31:476][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.29-19.02.31:476][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.29-19.02.31:476][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.29-19.02.31:477][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.29-19.02.31:477][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.29-19.02.31:477][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.29-19.02.31:477][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.29-19.02.31:477][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.29-19.02.31:477][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.29-19.02.31:477][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.29-19.02.31:477][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.29-19.02.31:477][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.29-19.02.31:477][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.29-19.02.31:477][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.29-19.02.31:477][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/shumw/Documents/Unreal Projects/VRProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-19.02.31:477][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.29-19.02.31:477][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.29-19.02.31:477][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.29-19.02.31:477][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.29-19.02.31:477][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.29-19.02.31:477][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.29-19.02.31:477][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.29-19.02.31:477][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.29-19.02.31:477][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/shumw/Documents/Unreal Projects/VRProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-19.02.31:477][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.29-19.02.31:477][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.29-19.02.31:477][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.29-19.02.31:478][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.29-19.02.31:478][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.29-19.02.31:478][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.29-19.02.31:478][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.29-19.02.31:478][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.29-19.02.31:478][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.29-19.02.31:478][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.29-19.02.31:478][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.29-19.02.31:478][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.29-19.02.31:478][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.29-19.02.31:478][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/shumw/Documents/Unreal Projects/VRProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-19.02.31:478][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.29-19.02.31:478][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.29-19.02.31:478][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.29-19.02.31:478][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.29-19.02.31:506][  0]LogHAL: Display: Platform has ~ 8 GB [8457039872 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.29-19.02.31:506][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.05.29-19.02.31:506][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.29-19.02.31:506][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/shumw/Documents/Unreal Projects/VRProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-19.02.31:506][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.29-19.02.31:506][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.29-19.02.31:506][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/shumw/Documents/Unreal Projects/VRProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-19.02.31:506][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.29-19.02.31:506][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/shumw/Documents/Unreal Projects/VRProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-19.02.31:506][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.29-19.02.31:507][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.29-19.02.31:507][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.29-19.02.31:507][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.29-19.02.31:507][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.29-19.02.31:507][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.29-19.02.31:507][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.29-19.02.31:507][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.29-19.02.31:507][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.29-19.02.31:507][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.29-19.02.31:507][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.29-19.02.31:507][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.29-19.02.31:507][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.29-19.02.31:507][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.29-19.02.31:507][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.29-19.02.31:507][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.29-19.02.31:507][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.29-19.02.31:507][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.29-19.02.31:507][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/shumw/Documents/Unreal Projects/VRProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-19.02.31:507][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.29-19.02.31:507][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.29-19.02.31:507][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.29-19.02.31:507][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.29-19.02.31:507][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.29-19.02.31:507][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.29-19.02.31:507][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.29-19.02.31:507][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.29-19.02.31:507][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.29-19.02.31:507][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.29-19.02.31:507][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.29-19.02.31:507][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.29-19.02.31:507][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.29-19.02.31:507][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.29-19.02.31:507][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.29-19.02.31:507][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.29-19.02.31:507][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.29-19.02.31:507][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.29-19.02.31:507][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.29-19.02.31:507][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.29-19.02.31:507][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.29-19.02.31:507][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.29-19.02.31:507][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.29-19.02.31:507][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.29-19.02.31:507][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.29-19.02.31:507][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.29-19.02.31:508][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.29-19.02.31:508][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.29-19.02.31:508][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.29-19.02.31:508][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.29-19.02.31:508][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/shumw/Documents/Unreal Projects/VRProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-19.02.31:508][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.29-19.02.31:508][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.29-19.02.31:508][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.29-19.02.31:508][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.29-19.02.31:508][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.29-19.02.31:508][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.29-19.02.31:508][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.29-19.02.31:508][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.29-19.02.31:508][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/shumw/Documents/Unreal Projects/VRProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-19.02.31:508][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.29-19.02.31:508][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.29-19.02.31:508][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.29-19.02.31:508][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.29-19.02.31:508][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.29-19.02.31:508][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.29-19.02.31:508][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.29-19.02.31:508][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.29-19.02.31:508][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.29-19.02.31:508][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.29-19.02.31:508][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.29-19.02.31:508][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.29-19.02.31:508][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.29-19.02.31:508][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/shumw/Documents/Unreal Projects/VRProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-19.02.31:508][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.29-19.02.31:508][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.29-19.02.31:508][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.05.29-19.02.31:509][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.05.29-19.02.31:509][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/shumw/Documents/Unreal Projects/VRProject/Saved/Config/Windows/Engine.ini]
+[2019.05.29-19.02.31:509][  0]LogInit: Computer: DESKTOP-K5MRQ2P
+[2019.05.29-19.02.31:509][  0]LogInit: User: shumw
+[2019.05.29-19.02.31:509][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.05.29-19.02.31:509][  0]LogInit: High frequency timer resolution =2.250004 MHz
+[2019.05.29-19.02.31:509][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.05.29-19.02.31:509][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.29-19.02.31:509][  0]LogMemory: Process Physical Memory: 101.40 MB used, 101.40 MB peak
+[2019.05.29-19.02.31:509][  0]LogMemory: Process Virtual Memory: 91.24 MB used, 91.24 MB peak
+[2019.05.29-19.02.31:509][  0]LogMemory: Physical Memory: 4265.96 MB used,  3799.30 MB free, 8065.26 MB total
+[2019.05.29-19.02.31:509][  0]LogMemory: Virtual Memory: 4640.35 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.05.29-19.02.31:589][  0]LogInit: Using OS detected language (en-US).
+[2019.05.29-19.02.31:589][  0]LogInit: Using OS detected locale (en-US).
+[2019.05.29-19.02.31:591][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.05.29-19.02.32:189][  0]LogStreaming: Display: Took  0.600s to InitEngineTextLocalization.
+[2019.05.29-19.02.32:189][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.29-19.02.32:298][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.29-19.02.32:298][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.29-19.02.35:241][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.29-19.02.35:241][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.29-19.02.35:981][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2019.05.29-19.02.35:981][  0]LogD3D11RHI:       4055/0/4032 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.05.29-19.02.35:994][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2019.05.29-19.02.35:994][  0]LogD3D11RHI:       128/0/4032 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.05.29-19.02.36:008][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.29-19.02.36:008][  0]LogD3D11RHI:       0/0/4032 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.29-19.02.36:008][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.29-19.02.36:019][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.29-19.02.36:019][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2019.05.29-19.02.36:019][  0]LogWindows: EnumDisplayDevices:
+[2019.05.29-19.02.36:020][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2019.05.29-19.02.36:020][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.05.29-19.02.36:020][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.05.29-19.02.36:021][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.05.29-19.02.36:021][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2019.05.29-19.02.36:021][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.05.29-19.02.36:021][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.05.29-19.02.36:021][  0]LogRHI: Texture pool is 2839 MB (70% of 4055 MB)
+[2019.05.29-19.02.36:079][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.29-19.02.36:111][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.05.29-19.02.36:394][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.05.29-19.02.36:412][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.05.29-19.02.36:429][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.05.29-19.02.36:448][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.05.29-19.02.36:473][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.05.29-19.02.36:491][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.05.29-19.02.36:511][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.05.29-19.02.36:530][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.05.29-19.02.36:539][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.05.29-19.02.36:645][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-19.02.36:645][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-19.02.36:645][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-19.02.36:645][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-19.02.36:645][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-19.02.36:645][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-19.02.36:645][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-19.02.36:645][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-19.02.36:645][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-19.02.36:645][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-19.02.36:645][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-19.02.36:645][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-19.02.36:645][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-19.02.36:645][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-19.02.36:645][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-19.02.36:645][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-19.02.36:645][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-19.02.36:645][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-19.02.36:649][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.05.29-19.02.36:727][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.29-19.02.36:727][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.29-19.02.36:754][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.29-19.02.36:754][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.29-19.02.36:771][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.05.29-19.02.36:786][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.05.29-19.02.36:802][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.05.29-19.02.36:827][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.05.29-19.02.36:884][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.29-19.02.36:884][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.29-19.02.36:884][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.29-19.02.36:997][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Intermediate/Shaders/WorkingDirectory/15700/).
+[2019.05.29-19.02.36:997][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/shumw/AppData/Local/Temp/UnrealShaderWorkingDir/43D8F34348854EB234324C97A95254FE/'.
+[2019.05.29-19.02.37:001][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.29-19.02.37:001][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.29-19.02.37:001][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.29-19.02.39:075][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.29-19.02.39:596][  0]LogDerivedDataCache: Loaded boot cache 0.52s 71MB C:/Users/shumw/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.29-19.02.39:596][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/shumw/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.05.29-19.02.39:596][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.29-19.02.39:596][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.29-19.02.39:596][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.29-19.02.39:596][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.29-19.02.39:621][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.29-19.02.39:621][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.29-19.02.39:621][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.05.29-19.02.39:634][  0]LogDerivedDataCache: Using Local data cache path C:/Users/shumw/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.29-19.02.39:634][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.29-19.02.39:634][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.29-19.02.39:666][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.29-19.02.39:668][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.29-19.02.39:691][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.29-19.02.40:085][  0]LogAssetRegistry: FAssetRegistry took 0.0362 seconds to start up
+[2019.05.29-19.02.40:513][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.29-19.02.40:884][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.05.29-19.02.40:893][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.05.29-19.02.40:893][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.29-19.02.40:893][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.29-19.02.40:893][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.05.29-19.02.40:933][  0]LogNetVersion: VR_Project 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3735921402)
+[2019.05.29-19.02.42:211][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Intermediate/AssetRegistryCache/2657c409.bin
+[2019.05.29-19.02.42:223][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Intermediate/AssetRegistryCache/866581fd.bin
+[2019.05.29-19.02.42:234][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Intermediate/AssetRegistryCache/8c0e1344.bin
+[2019.05.29-19.02.42:244][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Intermediate/AssetRegistryCache/c9e91a3f.bin
+[2019.05.29-19.02.42:255][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Intermediate/AssetRegistryCache/30e2b9c2.bin
+[2019.05.29-19.02.42:272][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Intermediate/AssetRegistryCache/d6e8ba78.bin
+[2019.05.29-19.02.42:282][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Intermediate/AssetRegistryCache/cff8f772.bin
+[2019.05.29-19.02.42:293][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Intermediate/AssetRegistryCache/44c3f9c9.bin
+[2019.05.29-19.02.42:306][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Intermediate/AssetRegistryCache/cef2e191.bin
+[2019.05.29-19.02.42:325][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Intermediate/AssetRegistryCache/1f683343.bin
+[2019.05.29-19.02.42:329][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.126929 seconds
+[2019.05.29-19.02.42:341][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.05.29-19.02.42:341][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.05.29-19.02.42:341][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.29-19.02.47:075][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.29-19.02.47:094][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.29-19.02.48:212][  0]SourceControl: Source control is disabled
+[2019.05.29-19.02.48:212][  0]SourceControl: Source control is disabled
+[2019.05.29-19.02.48:225][  0]SourceControl: Source control is disabled
+[2019.05.29-19.02.48:231][  0]SourceControl: Source control is disabled
+[2019.05.29-19.02.48:662][  0]LogOnline: Oculus: Oculus Startup!
+[2019.05.29-19.02.48:668][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.29-19.02.48:782][  0]LogOcInput: OculusInput pre-init called
+[2019.05.29-19.02.49:078][  0]LogEngine: Initializing Engine...
+[2019.05.29-19.02.49:081][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.29-19.02.49:083][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.29-19.02.49:083][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.29-19.02.49:083][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.29-19.02.49:083][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.29-19.02.49:651][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.29-19.02.49:712][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.29-19.02.49:755][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.29-19.02.50:207][  0]LogInit: FAudioDevice initialized.
+[2019.05.29-19.02.50:209][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.29-19.02.50:220][  0]LogDerivedDataCache: Error: Could not save memory cache C:/Users/shumw/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.29-19.02.50:230][  0]LogInit: Texture streaming: Enabled
+[2019.05.29-19.02.50:282][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.29-19.02.50:352][  0]LogInit: Transaction tracking system initialized
+[2019.05.29-19.02.50:449][  0]BlueprintLog: New page: Editor Load
+[2019.05.29-19.02.50:732][  0]LocalizationService: Localization service is disabled
+[2019.05.29-19.02.50:807][  0]LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Intermediate/Config/CoalescedSourceConfigs/Engine.ini]
+[2019.05.29-19.02.50:917][  0]LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Intermediate/Config/CoalescedSourceConfigs/Engine.ini]
+[2019.05.29-19.02.51:115][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2019.05.29-19.02.51:116][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2019.05.29-19.02.51:116][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2019.05.29-19.02.52:387][  0]LogFileCache: Scanning file cache for directory 'C:/Users/shumw/Documents/Unreal Projects/VRProject/Content/' took 0.04s
+[2019.05.29-19.02.52:387][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.29-19.02.52:387][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.29-19.02.52:387][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.05.29-19.02.52:387][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.29-19.02.52:387][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.29-19.02.52:388][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.29-19.02.52:388][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.29-19.02.52:881][  0]SourceControl: Source control is disabled
+[2019.05.29-19.02.52:887][  0]Cmd: MAP LOAD FILE="../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Content/Maps/Mansion.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.29-19.02.52:890][  0]LightingResults: New page: Lighting Build
+[2019.05.29-19.02.52:916][  0]MapCheck: New page: Map Check
+[2019.05.29-19.02.52:916][  0]LightingResults: New page: Lighting Build
+[2019.05.29-19.04.13:569][  0]LogAIModule: Creating AISystem for world Mansion
+[2019.05.29-19.04.13:888][  0]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.05.29-19.04.13:888][  0]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.05.29-19.04.15:000][  0]LogEditorServer: Finished looking for orphan Actors (0.002 secs)
+[2019.05.29-19.04.15:252][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.29-19.04.15:253][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.336ms to complete.
+[2019.05.29-19.04.15:253][  0]LogFileHelpers: Loading map 'Mansion' took 82.369
+[2019.05.29-19.04.15:419][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-19.04.15:428][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-19.04.15:437][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-19.04.15:446][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-19.04.15:455][  0]LogCollectionManager: Loaded 0 collections in 0.002733 seconds
+[2019.05.29-19.04.15:474][  0]LogFileCache: Scanning file cache for directory 'C:/Users/shumw/Documents/Unreal Projects/VRProject/Saved/Collections/' took 0.01s
+[2019.05.29-19.04.15:474][  0]LogFileCache: Scanning file cache for directory 'C:/Users/shumw/Documents/Unreal Projects/VRProject/Content/Developers/shumw/Collections/' took 0.00s
+[2019.05.29-19.04.15:474][  0]LogFileCache: Scanning file cache for directory 'C:/Users/shumw/Documents/Unreal Projects/VRProject/Content/Collections/' took 0.00s
+[2019.05.29-19.04.15:474][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.05.29-19.04.15:499][  0]LogContentBrowser: Native class hierarchy populated in 0.0250 seconds. Added 2658 classes and 623 folders.
+[2019.05.29-19.04.15:509][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.29-19.04.15:512][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-19.04.15:513][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-19.04.15:513][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-19.04.15:514][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-19.04.15:514][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-19.04.15:515][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-19.04.15:515][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-19.04.15:516][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-19.04.15:516][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-19.04.15:517][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-19.04.15:517][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-19.04.15:518][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-19.04.15:518][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-19.04.15:519][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-19.04.15:519][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-19.04.15:520][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-19.04.15:521][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-19.04.15:521][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-19.04.15:522][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-19.04.15:522][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-19.04.15:523][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-19.04.15:523][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-19.04.15:524][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-19.04.15:524][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-19.04.15:525][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-19.04.15:526][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-19.04.15:577][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.29-19.04.15:584][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.05.29-19.04.15:604][  0]LogSlate: Took 0.000260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.29-19.04.15:606][  0]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.29-19.04.15:615][  0]LogSlate: Took 0.000327 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.29-19.04.15:760][  0]LogRenderer: Reallocating scene render targets to support 836x460 Format 10 NumSamples 1 (Frame:1).
+[2019.05.29-19.04.16:311][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.05.29-19.04.16:311][  0]LogLoad: (Engine Initialization) Total time: 110.15 seconds
+[2019.05.29-19.04.16:311][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.29-19.04.17:274][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.05.29-19.04.17:356][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.29-19.04.17:899][  0]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.29-19.04.17:930][  1]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.29-19.04.18:193][  1]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.29-19.04.20:693][  3]LogEditorViewport: Clicking on Actor (LMB): FbxScene_Fence_C (FbxScene_Fence)
+[2019.05.29-19.04.21:343][  9]LogAssetRegistry: Asset discovery search completed in 101.2815 seconds
+[2019.05.29-19.04.21:346][  9]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.05.29-19.04.21:346][  9]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000074 seconds (updated 0 objects)
+[2019.05.29-19.04.35:695][431]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.04.35:695][431]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.29-19.04.38:682][431]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-19.04.39:147][431]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.29-19.04.39:315][431]PIE: New page: PIE session: Mansion (May 29, 2019, 5:04:39 AM)
+[2019.05.29-19.04.40:021][431]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Mansion
+[2019.05.29-19.04.41:405][431]LogPlayLevel: PIE: StaticDuplicateObject took: (1.384013s)
+[2019.05.29-19.04.41:406][431]LogAIModule: Creating AISystem for world Mansion
+[2019.05.29-19.04.41:471][431]LogPlayLevel: PIE: World Init took: (0.065415s)
+[2019.05.29-19.04.41:472][431]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Mansion.Mansion to /Game/Maps/UEDPIE_0_Mansion.Mansion (1.450632s)
+[2019.05.29-19.04.43:779][431]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.29-19.04.43:832][431]LogInit: FAudioDevice initialized.
+[2019.05.29-19.04.50:697][431]LogLoad: Game class is 'GameModeBase'
+[2019.05.29-19.04.50:830][431]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Mansion.Mansion up for play (max tick rate 60) at 2019.05.29-12.04.50
+[2019.05.29-19.04.50:850][431]LogWorld: Bringing up level for play took: 0.133095
+[2019.05.29-19.04.50:915][431]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0014 seconds. Added 20 classes and 0 folders.
+[2019.05.29-19.04.50:938][431]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Mansion 12.333
+[2019.05.29-19.04.50:938][431]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-19.05.05:800][997]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.05.07:552][ 53]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-19.05.07:560][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-19.05.07:636][ 53]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.29-19.05.07:637][ 53]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-19.05.07:777][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-19.05.07:818][ 54]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.05.29-19.05.16:554][482]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.07.52:867][452]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.07.54:277][529]LogSlate: Took 0.000275 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.29-19.07.54:293][529]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Interactables/ExitDoors/ExitDoor.ExitDoor
+[2019.05.29-19.07.55:084][529]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 117 classes and 0 folders.
+[2019.05.29-19.07.56:353][529]LogSlate: Took 0.005694 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.29-19.07.56:453][530]LogSlate: Took 0.006682 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.29-19.08.01:507][730]LogSlate: Window 'ExitDoor' being destroyed
+[2019.05.29-19.08.01:511][730]LogSlate: Window 'ExitDoor' being destroyed
+[2019.05.29-19.08.22:742][878]LogMetaData: Removing '/Game/Blueprints/Interactables/FrontDoor/ExitDoor.ExitDoor_C' ref from Metadata '/Game/Blueprints/Interactables/ExitDoors/ExitDoor.PackageMetaData'
+[2019.05.29-19.08.22:742][878]LogMetaData: Removing '/Game/Blueprints/Interactables/FrontDoor/ExitDoor.SKEL_ExitDoor_C:Open' ref from Metadata '/Game/Blueprints/Interactables/ExitDoors/ExitDoor.PackageMetaData'
+[2019.05.29-19.08.22:742][878]LogMetaData: Removing '/Game/Blueprints/Interactables/FrontDoor/ExitDoor.SKEL_ExitDoor_C:DefaultSceneRoot1' ref from Metadata '/Game/Blueprints/Interactables/ExitDoors/ExitDoor.PackageMetaData'
+[2019.05.29-19.08.22:742][878]LogMetaData: Removing '/Game/Blueprints/Interactables/FrontDoor/ExitDoor.SKEL_ExitDoor_C:doorKnobR' ref from Metadata '/Game/Blueprints/Interactables/ExitDoors/ExitDoor.PackageMetaData'
+[2019.05.29-19.08.22:742][878]LogMetaData: Removing '/Game/Blueprints/Interactables/FrontDoor/ExitDoor.SKEL_ExitDoor_C:door_1' ref from Metadata '/Game/Blueprints/Interactables/ExitDoors/ExitDoor.PackageMetaData'
+[2019.05.29-19.08.22:742][878]LogMetaData: Removing '/Game/Blueprints/Interactables/FrontDoor/ExitDoor.SKEL_ExitDoor_C:doorKnobHandleR' ref from Metadata '/Game/Blueprints/Interactables/ExitDoors/ExitDoor.PackageMetaData'
+[2019.05.29-19.08.22:742][878]LogMetaData: Removing '/Game/Blueprints/Interactables/FrontDoor/ExitDoor.SKEL_ExitDoor_C:doorKnobR_3' ref from Metadata '/Game/Blueprints/Interactables/ExitDoors/ExitDoor.PackageMetaData'
+[2019.05.29-19.08.22:742][878]LogMetaData: Removing '/Game/Blueprints/Interactables/FrontDoor/ExitDoor.SKEL_ExitDoor_C:doorKnobL' ref from Metadata '/Game/Blueprints/Interactables/ExitDoors/ExitDoor.PackageMetaData'
+[2019.05.29-19.08.22:742][878]LogMetaData: Removing '/Game/Blueprints/Interactables/FrontDoor/ExitDoor.SKEL_ExitDoor_C:doorKnobHandleL' ref from Metadata '/Game/Blueprints/Interactables/ExitDoors/ExitDoor.PackageMetaData'
+[2019.05.29-19.08.22:742][878]LogMetaData: Removing '/Game/Blueprints/Interactables/FrontDoor/ExitDoor.SKEL_ExitDoor_C:doorKnobL_5' ref from Metadata '/Game/Blueprints/Interactables/ExitDoors/ExitDoor.PackageMetaData'
+[2019.05.29-19.08.22:742][878]LogMetaData: Removing '/Game/Blueprints/Interactables/FrontDoor/ExitDoor.SKEL_ExitDoor_C:Scene' ref from Metadata '/Game/Blueprints/Interactables/ExitDoors/ExitDoor.PackageMetaData'
+[2019.05.29-19.08.22:742][878]LogMetaData: Removing '/Game/Blueprints/Interactables/FrontDoor/ExitDoor.SKEL_ExitDoor_C:door' ref from Metadata '/Game/Blueprints/Interactables/ExitDoors/ExitDoor.PackageMetaData'
+[2019.05.29-19.08.22:742][878]LogMetaData: Removing '/Game/Blueprints/Interactables/FrontDoor/ExitDoor.SKEL_ExitDoor_C:Widget' ref from Metadata '/Game/Blueprints/Interactables/ExitDoors/ExitDoor.PackageMetaData'
+[2019.05.29-19.08.22:742][878]LogMetaData: Removing '/Game/Blueprints/Interactables/FrontDoor/ExitDoor.SKEL_ExitDoor_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Interactables/ExitDoors/ExitDoor.PackageMetaData'
+[2019.05.29-19.08.22:742][878]LogMetaData: Removing '/Game/Blueprints/Interactables/FrontDoor/ExitDoor.SKEL_ExitDoor_C' ref from Metadata '/Game/Blueprints/Interactables/ExitDoors/ExitDoor.PackageMetaData'
+[2019.05.29-19.08.22:742][878]LogMetaData: Removing '/Game/Blueprints/Interactables/FrontDoor/ExitDoor.ExitDoor_C:Open' ref from Metadata '/Game/Blueprints/Interactables/ExitDoors/ExitDoor.PackageMetaData'
+[2019.05.29-19.08.22:742][878]LogMetaData: Removing '/Game/Blueprints/Interactables/FrontDoor/ExitDoor.ExitDoor_C:DefaultSceneRoot1' ref from Metadata '/Game/Blueprints/Interactables/ExitDoors/ExitDoor.PackageMetaData'
+[2019.05.29-19.08.22:743][878]LogMetaData: Removing '/Game/Blueprints/Interactables/FrontDoor/ExitDoor.ExitDoor_C:doorKnobR' ref from Metadata '/Game/Blueprints/Interactables/ExitDoors/ExitDoor.PackageMetaData'
+[2019.05.29-19.08.22:743][878]LogMetaData: Removing '/Game/Blueprints/Interactables/FrontDoor/ExitDoor.ExitDoor_C:door_1' ref from Metadata '/Game/Blueprints/Interactables/ExitDoors/ExitDoor.PackageMetaData'
+[2019.05.29-19.08.22:743][878]LogMetaData: Removing '/Game/Blueprints/Interactables/FrontDoor/ExitDoor.ExitDoor_C:doorKnobHandleR' ref from Metadata '/Game/Blueprints/Interactables/ExitDoors/ExitDoor.PackageMetaData'
+[2019.05.29-19.08.22:743][878]LogMetaData: Removing '/Game/Blueprints/Interactables/FrontDoor/ExitDoor.ExitDoor_C:doorKnobR_3' ref from Metadata '/Game/Blueprints/Interactables/ExitDoors/ExitDoor.PackageMetaData'
+[2019.05.29-19.08.22:743][878]LogMetaData: Removing '/Game/Blueprints/Interactables/FrontDoor/ExitDoor.ExitDoor_C:doorKnobL' ref from Metadata '/Game/Blueprints/Interactables/ExitDoors/ExitDoor.PackageMetaData'
+[2019.05.29-19.08.22:743][878]LogMetaData: Removing '/Game/Blueprints/Interactables/FrontDoor/ExitDoor.ExitDoor_C:doorKnobHandleL' ref from Metadata '/Game/Blueprints/Interactables/ExitDoors/ExitDoor.PackageMetaData'
+[2019.05.29-19.08.22:743][878]LogMetaData: Removing '/Game/Blueprints/Interactables/FrontDoor/ExitDoor.ExitDoor_C:doorKnobL_5' ref from Metadata '/Game/Blueprints/Interactables/ExitDoors/ExitDoor.PackageMetaData'
+[2019.05.29-19.08.22:743][878]LogMetaData: Removing '/Game/Blueprints/Interactables/FrontDoor/ExitDoor.ExitDoor_C:Scene' ref from Metadata '/Game/Blueprints/Interactables/ExitDoors/ExitDoor.PackageMetaData'
+[2019.05.29-19.08.22:743][878]LogMetaData: Removing '/Game/Blueprints/Interactables/FrontDoor/ExitDoor.ExitDoor_C:door' ref from Metadata '/Game/Blueprints/Interactables/ExitDoors/ExitDoor.PackageMetaData'
+[2019.05.29-19.08.22:743][878]LogMetaData: Removing '/Game/Blueprints/Interactables/FrontDoor/ExitDoor.ExitDoor_C:Widget' ref from Metadata '/Game/Blueprints/Interactables/ExitDoors/ExitDoor.PackageMetaData'
+[2019.05.29-19.08.22:743][878]LogMetaData: Removing '/Game/Blueprints/Interactables/FrontDoor/ExitDoor.ExitDoor_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Interactables/ExitDoors/ExitDoor.PackageMetaData'
+[2019.05.29-19.08.22:894][878]LogSavePackage: Moving '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Saved/ExitDoor3FF4A1354CC8D55672C6FAAF418C31FC.tmp' to '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Content/Blueprints/Interactables/FrontDoor/ExitDoor.uasset'
+[2019.05.29-19.08.22:921][878]LogSavePackage: Moving '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Saved/ExitDoor33EA18CC4DEC40308B1904B18119AC06.tmp' to '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Content/Blueprints/Interactables/ExitDoors/ExitDoor.uasset'
+[2019.05.29-19.08.22:922][878]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Content/Blueprints/Interactables/ExitDoors/ExitDoor.uasset', retrying in .5s...
+[2019.05.29-19.08.23:423][878]LogFileManager: Error: Error deleting file '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Content/Blueprints/Interactables/ExitDoors/ExitDoor.uasset'.
+[2019.05.29-19.08.23:423][878]LogSavePackage: Error: Error saving '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Content/Blueprints/Interactables/ExitDoors/ExitDoor.uasset'
+[2019.05.29-19.08.59:054][878]LogSlate: Window 'Message' being destroyed
+[2019.05.29-19.08.59:083][878]LogSavePackage: Moving '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Saved/ExitDoor4591A917496CCA5584550CAF8A90397C.tmp' to '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Content/Blueprints/Interactables/ExitDoors/ExitDoor.uasset'
+[2019.05.29-19.09.03:451][878]EditorErrors: New page: Save Output
+[2019.05.29-19.09.03:451][878]EditorErrors: Warning: Error saving '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Content/Blueprints/Interactables/ExitDoors/ExitDoor.uasset'
+[2019.05.29-19.09.07:044][927]LogSlate: Window 'Message Log' being destroyed
+[2019.05.29-19.09.07:059][927]LogSlate: Window 'Message Log' being destroyed
+[2019.05.29-19.09.08:014][981]LogEditorViewport: Clicking on Actor (LMB): FbxScene_Grass_C (FbxScene_Grass)
+[2019.05.29-19.09.12:831][244]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.09.15:432][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mansion" FILE="../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Content/Maps/Mansion.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.29-19.09.17:015][308]LogSavePackage: Moving '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Saved/Mansion04E072B14CF037CE861A679A4A16E7B1.tmp' to '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Content/Maps/Mansion.umap'
+[2019.05.29-19.09.17:051][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mansion_BuiltData" FILE="../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Content/Maps/Mansion_BuiltData.uasset" SILENT=true
+[2019.05.29-19.09.20:184][308]LogSavePackage: Moving '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Saved/Mansion_BuiltData15E380B444DE5F9BFAC052A51A531C9D.tmp' to '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Content/Maps/Mansion_BuiltData.uasset'
+[2019.05.29-19.09.58:199][407]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.12.01:456][729]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.29-19.12.03:022][789]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.29-19.12.04:680][789]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.05.29-19.12.04:945][793]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.VRProject
+[2019.05.29-19.12.04:945][793]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.05.29-19.12.04:945][793]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.21
+[2019.05.29-19.12.04:945][793]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.05.29-19.12.04:953][793]LogTemp: BranchPath = DESKTOP-K5MRQ2P/C/Program Files/Epic Games/UE_4.21/Engine/Binaries --- GameBranchPath = DESKTOP-K5MRQ2P/C/Program Files/Epic Games/UE_4.21/Engine/Binaries
+[2019.05.29-19.12.05:001][793]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\shumw\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.05.29-19.12.13:118][100]LogSlate: Window 'Project Settings' being destroyed
+[2019.05.29-19.12.13:139][100]LogSlate: Window 'Project Settings' being destroyed
+[2019.05.29-19.15.22:917][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.15.23:567][896]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.29-19.15.23:606][896]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-19.15.23:606][896]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.29-19.15.23:607][896]PIE: New page: PIE session: Mansion (May 29, 2019, 5:15:23 AM)
+[2019.05.29-19.15.23:607][896]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Mansion
+[2019.05.29-19.15.23:717][896]LogPlayLevel: PIE: StaticDuplicateObject took: (0.110195s)
+[2019.05.29-19.15.23:717][896]LogAIModule: Creating AISystem for world Mansion
+[2019.05.29-19.15.23:718][896]LogPlayLevel: PIE: World Init took: (0.000904s)
+[2019.05.29-19.15.23:718][896]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Mansion.Mansion to /Game/Maps/UEDPIE_0_Mansion.Mansion (0.111350s)
+[2019.05.29-19.15.23:762][896]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.29-19.15.23:789][896]LogInit: FAudioDevice initialized.
+[2019.05.29-19.15.23:825][896]LogLoad: Game class is 'GameModeBase'
+[2019.05.29-19.15.23:871][896]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Mansion.Mansion up for play (max tick rate 60) at 2019.05.29-12.15.23
+[2019.05.29-19.15.23:878][896]LogWorld: Bringing up level for play took: 0.052221
+[2019.05.29-19.15.23:897][896]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Mansion -0.709
+[2019.05.29-19.15.23:897][896]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-19.15.26:978][941]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.15.27:185][945]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.15.38:413][110]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.15.42:100][156]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-19.15.42:101][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-19.15.42:247][156]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.29-19.15.42:247][156]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-19.15.42:300][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-19.15.42:350][157]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.05.29-19.15.43:650][224]LogEditorViewport: Clicking on Actor (LMB): ExitDoor_C (ExitDoor)
+[2019.05.29-19.15.57:752][891]LogEditorViewport: Clicking on Actor (LMB): FbxScene_door_C (FbxScene_door7)
+[2019.05.29-19.16.00:114][994]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.16.02:221][ 58]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Interactables/Door/FbxScene_door.FbxScene_door
+[2019.05.29-19.16.05:779][184]LogSlate: Window 'FbxScene_door' being destroyed
+[2019.05.29-19.16.05:788][184]LogSlate: Window 'FbxScene_door' being destroyed
+[2019.05.29-19.16.08:788][282]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.16.08:984][287]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Interactables/Door/FbxScene_door.FbxScene_door
+[2019.05.29-19.16.19:483][679]LogRenderer: Reallocating scene render targets to support 844x572 Format 10 NumSamples 1 (Frame:1).
+[2019.05.29-19.16.35:208][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.16.35:307][280]LogSlate: Window 'FbxScene_door' being destroyed
+[2019.05.29-19.16.35:338][280]LogSlate: Window 'FbxScene_door' being destroyed
+[2019.05.29-19.16.39:099][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.16.39:294][400]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Interactables/Door/FbxScene_door.FbxScene_door
+[2019.05.29-19.17.04:565][405]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.17.08:872][570]BlueprintLog: New page: Compile FbxScene_door
+[2019.05.29-19.17.10:391][604]LogSlate: Window 'FbxScene_door*' being destroyed
+[2019.05.29-19.17.10:424][604]LogSlate: Window 'FbxScene_door*' being destroyed
+[2019.05.29-19.17.11:397][636]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.17.11:481][640]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.29-19.17.11:526][640]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-19.17.11:526][640]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.29-19.17.11:527][640]PIE: New page: PIE session: Mansion (May 29, 2019, 5:17:11 AM)
+[2019.05.29-19.17.11:528][640]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Mansion
+[2019.05.29-19.17.11:634][640]LogPlayLevel: PIE: StaticDuplicateObject took: (0.106028s)
+[2019.05.29-19.17.11:634][640]LogAIModule: Creating AISystem for world Mansion
+[2019.05.29-19.17.11:635][640]LogPlayLevel: PIE: World Init took: (0.001034s)
+[2019.05.29-19.17.11:635][640]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Mansion.Mansion to /Game/Maps/UEDPIE_0_Mansion.Mansion (0.107504s)
+[2019.05.29-19.17.11:680][640]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.29-19.17.11:703][640]LogInit: FAudioDevice initialized.
+[2019.05.29-19.17.11:738][640]LogLoad: Game class is 'GameModeBase'
+[2019.05.29-19.17.11:778][640]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Mansion.Mansion up for play (max tick rate 60) at 2019.05.29-12.17.11
+[2019.05.29-19.17.11:784][640]LogWorld: Bringing up level for play took: 0.046235
+[2019.05.29-19.17.11:802][640]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Mansion 1.197
+[2019.05.29-19.17.11:802][640]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-19.17.15:688][723]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.17.15:799][726]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.17.19:712][788]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.17.36:321][ 84]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.17.36:397][ 85]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.17.37:079][ 94]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.17.37:306][ 97]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.17.41:624][154]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.17.41:775][156]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.17.42:832][170]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-19.17.42:832][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-19.17.42:974][170]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.29-19.17.42:974][170]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-19.17.43:035][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-19.17.43:081][171]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.05.29-19.17.44:964][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.17.45:121][240]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Interactables/Door/FbxScene_door.FbxScene_door
+[2019.05.29-19.18.01:566][937]LogSlate: Window 'FbxScene_door*' being destroyed
+[2019.05.29-19.18.01:571][937]LogSlate: Window 'FbxScene_door*' being destroyed
+[2019.05.29-19.18.07:109][212]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.18.07:293][217]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Interactables/Door/FbxScene_door.FbxScene_door
+[2019.05.29-19.18.29:885][187]LogSlate: Window 'FbxScene_door*' being destroyed
+[2019.05.29-19.18.29:891][187]LogSlate: Window 'FbxScene_door*' being destroyed
+[2019.05.29-19.18.32:341][284]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.18.32:451][290]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.29-19.18.32:491][290]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-19.18.32:491][290]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.29-19.18.32:491][290]PIE: New page: PIE session: Mansion (May 29, 2019, 5:18:32 AM)
+[2019.05.29-19.18.32:491][290]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Mansion
+[2019.05.29-19.18.32:604][290]LogPlayLevel: PIE: StaticDuplicateObject took: (0.112985s)
+[2019.05.29-19.18.32:604][290]LogAIModule: Creating AISystem for world Mansion
+[2019.05.29-19.18.32:605][290]LogPlayLevel: PIE: World Init took: (0.000880s)
+[2019.05.29-19.18.32:605][290]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Mansion.Mansion to /Game/Maps/UEDPIE_0_Mansion.Mansion (0.114044s)
+[2019.05.29-19.18.32:657][290]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.29-19.18.32:679][290]LogInit: FAudioDevice initialized.
+[2019.05.29-19.18.32:716][290]LogLoad: Game class is 'GameModeBase'
+[2019.05.29-19.18.32:758][290]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Mansion.Mansion up for play (max tick rate 60) at 2019.05.29-12.18.32
+[2019.05.29-19.18.32:765][290]LogWorld: Bringing up level for play took: 0.048369
+[2019.05.29-19.18.32:782][290]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Mansion 0.177
+[2019.05.29-19.18.32:782][290]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-19.18.42:530][439]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.18.42:673][442]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.18.46:059][512]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.18.46:297][517]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.18.49:747][570]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.18.58:023][677]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.18.58:247][680]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.18.59:612][698]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-19.18.59:613][698]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-19.18.59:757][698]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.29-19.18.59:757][698]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-19.18.59:816][698]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-19.18.59:838][699]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.05.29-19.19.03:541][840]LogEditorViewport: Clicking on Actor (LMB): FbxScene_door_C (FbxScene_door2)
+[2019.05.29-19.19.05:274][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.19.05:426][923]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Interactables/Door/FbxScene_door.FbxScene_door
+[2019.05.29-19.20.06:410][472]LogSavePackage: Moving '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Saved/FbxScene_doorB80B94024D61C5D0DA462793B30FD181.tmp' to '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Content/Blueprints/Interactables/Door/FbxScene_door.uasset'
+[2019.05.29-19.20.07:924][538]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.20.08:024][542]LogSlate: Window 'FbxScene_door' being destroyed
+[2019.05.29-19.20.08:035][542]LogSlate: Window 'FbxScene_door' being destroyed
+[2019.05.29-19.20.09:037][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.20.09:187][591]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.29-19.20.09:208][591]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-19.20.09:208][591]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.05.29-19.20.09:213][591]LogPlayLevel: [PlayLevel] Compiling FbxScene_door before play...
+[2019.05.29-19.20.09:553][591]LogPlayLevel: PlayLevel: Blueprint regeneration took 343 ms (1 blueprints)
+[2019.05.29-19.20.09:553][591]PIE: New page: PIE session: Mansion (May 29, 2019, 5:20:09 AM)
+[2019.05.29-19.20.09:553][591]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Mansion
+[2019.05.29-19.20.09:661][591]LogPlayLevel: PIE: StaticDuplicateObject took: (0.107522s)
+[2019.05.29-19.20.09:662][591]LogAIModule: Creating AISystem for world Mansion
+[2019.05.29-19.20.09:662][591]LogPlayLevel: PIE: World Init took: (0.000919s)
+[2019.05.29-19.20.09:662][591]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Mansion.Mansion to /Game/Maps/UEDPIE_0_Mansion.Mansion (0.108645s)
+[2019.05.29-19.20.09:706][591]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.29-19.20.09:729][591]LogInit: FAudioDevice initialized.
+[2019.05.29-19.20.09:758][591]LogLoad: Game class is 'GameModeBase'
+[2019.05.29-19.20.09:798][591]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Mansion.Mansion up for play (max tick rate 60) at 2019.05.29-12.20.09
+[2019.05.29-19.20.09:805][591]LogWorld: Bringing up level for play took: 0.045506
+[2019.05.29-19.20.09:823][591]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Mansion 1.218
+[2019.05.29-19.20.09:823][591]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-19.20.12:874][630]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.20.12:941][631]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.20.17:527][697]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.20.25:579][800]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.20.25:807][803]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.20.40:328][  2]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-19.20.40:329][  2]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-19.20.40:475][  2]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.29-19.20.40:475][  2]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-19.20.40:527][  2]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-19.20.40:588][  3]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.05.29-19.20.41:305][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.20.41:392][ 44]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.29-19.20.41:425][ 44]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-19.20.41:425][ 44]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.29-19.20.41:425][ 44]PIE: New page: PIE session: Mansion (May 29, 2019, 5:20:41 AM)
+[2019.05.29-19.20.41:426][ 44]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Mansion
+[2019.05.29-19.20.41:536][ 44]LogPlayLevel: PIE: StaticDuplicateObject took: (0.110171s)
+[2019.05.29-19.20.41:537][ 44]LogAIModule: Creating AISystem for world Mansion
+[2019.05.29-19.20.41:537][ 44]LogPlayLevel: PIE: World Init took: (0.000600s)
+[2019.05.29-19.20.41:537][ 44]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Mansion.Mansion to /Game/Maps/UEDPIE_0_Mansion.Mansion (0.110973s)
+[2019.05.29-19.20.41:580][ 44]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.29-19.20.41:601][ 44]LogInit: FAudioDevice initialized.
+[2019.05.29-19.20.41:633][ 44]LogLoad: Game class is 'GameModeBase'
+[2019.05.29-19.20.41:682][ 44]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Mansion.Mansion up for play (max tick rate 60) at 2019.05.29-12.20.41
+[2019.05.29-19.20.41:689][ 44]LogWorld: Bringing up level for play took: 0.054070
+[2019.05.29-19.20.41:707][ 44]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Mansion 1.103
+[2019.05.29-19.20.41:708][ 44]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-19.20.46:034][126]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.20.46:150][129]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.20.51:790][229]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.21.00:522][345]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.21.00:744][348]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.21.14:536][516]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-19.21.14:537][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-19.21.14:683][516]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.29-19.21.14:683][516]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-19.21.14:735][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-19.21.14:794][517]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.05.29-19.21.15:561][543]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.21.16:155][560]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Interactables/Door/FbxScene_door.FbxScene_door
+[2019.05.29-19.21.23:871][868]LogSlate: Window 'FbxScene_door' being destroyed
+[2019.05.29-19.21.23:892][868]LogSlate: Window 'FbxScene_door' being destroyed
+[2019.05.29-19.21.25:667][915]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.21.33:940][193]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Interactables/Key.Key
+[2019.05.29-19.21.40:221][405]LogSlate: Window 'Key' being destroyed
+[2019.05.29-19.21.40:226][405]LogSlate: Window 'Key' being destroyed
+[2019.05.29-19.21.44:862][553]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.21.47:750][639]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Interactables/Door/FbxScene_door.FbxScene_door
+[2019.05.29-19.22.35:332][407]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.23.28:834][425]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.23.50:289][220]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.24.23:499][452]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.24.30:392][711]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.24.34:791][878]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.24.47:977][371]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.24.56:356][681]LogEditorTransaction: Undo Modify Component(s)
+[2019.05.29-19.24.57:807][729]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.25.00:131][813]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.29-19.25.00:222][813]LogSavePackage: Moving '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Saved/FbxScene_door923B647D4B3CF5F28C22AF9007EBC6B6.tmp' to '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Content/Blueprints/Interactables/Door/FbxScene_door.uasset'
+[2019.05.29-19.25.02:222][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.25.02:331][893]LogSlate: Window 'FbxScene_door' being destroyed
+[2019.05.29-19.25.02:358][893]LogSlate: Window 'FbxScene_door' being destroyed
+[2019.05.29-19.25.03:261][922]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.25.03:371][927]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.29-19.25.03:417][927]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-19.25.03:417][927]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.05.29-19.25.03:421][927]LogPlayLevel: [PlayLevel] Compiling FbxScene_door before play...
+[2019.05.29-19.25.03:829][927]LogPlayLevel: PlayLevel: Blueprint regeneration took 411 ms (1 blueprints)
+[2019.05.29-19.25.03:829][927]PIE: New page: PIE session: Mansion (May 29, 2019, 5:25:03 AM)
+[2019.05.29-19.25.03:830][927]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Mansion
+[2019.05.29-19.25.03:938][927]LogPlayLevel: PIE: StaticDuplicateObject took: (0.108557s)
+[2019.05.29-19.25.03:939][927]LogAIModule: Creating AISystem for world Mansion
+[2019.05.29-19.25.03:939][927]LogPlayLevel: PIE: World Init took: (0.000898s)
+[2019.05.29-19.25.03:939][927]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Mansion.Mansion to /Game/Maps/UEDPIE_0_Mansion.Mansion (0.109626s)
+[2019.05.29-19.25.03:982][927]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.29-19.25.04:006][927]LogInit: FAudioDevice initialized.
+[2019.05.29-19.25.04:042][927]LogLoad: Game class is 'GameModeBase'
+[2019.05.29-19.25.04:084][927]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Mansion.Mansion up for play (max tick rate 60) at 2019.05.29-12.25.04
+[2019.05.29-19.25.04:091][927]LogWorld: Bringing up level for play took: 0.047938
+[2019.05.29-19.25.04:110][927]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Mansion 1.505
+[2019.05.29-19.25.04:111][927]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-19.25.06:409][957]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.25.06:567][960]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.25.07:667][980]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.25.07:878][983]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.25.13:140][ 62]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.25.19:723][146]LogBlueprintUserMessages: [FbxScene_door2_6] Hello
+[2019.05.29-19.25.19:861][148]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.25.31:361][465]LogBlueprintUserMessages: [FbxScene_door12_47] Hello
+[2019.05.29-19.25.31:543][476]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.26.30:478][523]LogBlueprintUserMessages: [FbxScene_door3_18] Hello
+[2019.05.29-19.26.30:639][526]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.27.16:197][ 87]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.27.16:441][ 90]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.27.28:227][262]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-19.27.28:228][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-19.27.28:327][262]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.29-19.27.28:327][262]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-19.27.28:374][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-19.27.28:404][263]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.05.29-19.27.30:867][364]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.27.35:371][545]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Interactables/Door/FbxScene_door.FbxScene_door
+[2019.05.29-19.27.46:172][973]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.27.50:246][134]LogSlate: Window 'FbxScene_door' being destroyed
+[2019.05.29-19.27.50:251][134]LogSlate: Window 'FbxScene_door' being destroyed
+[2019.05.29-19.27.51:653][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.27.57:851][490]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Interactables/CellarDoor/CellarDoor.CellarDoor
+[2019.05.29-19.28.14:693][157]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.28.31:627][878]LogEditorTransaction: Undo Set Rotation
+[2019.05.29-19.28.35:482][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.29.34:427][383]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.29.34:544][389]LogSlate: Window 'CellarDoor*' being destroyed
+[2019.05.29-19.29.34:569][389]LogSlate: Window 'CellarDoor*' being destroyed
+[2019.05.29-19.29.36:359][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.29.39:081][570]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Interactables/Door/FbxScene_door.FbxScene_door
+[2019.05.29-19.29.53:416][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.30.01:135][455]LogSlate: Window 'FbxScene_door*' being destroyed
+[2019.05.29-19.30.01:139][455]LogSlate: Window 'FbxScene_door*' being destroyed
+[2019.05.29-19.30.02:526][500]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.30.08:581][776]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Interactables/CellarDoor/CellarDoor.CellarDoor
+[2019.05.29-19.30.56:881][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.31.13:776][495]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.31.17:860][656]LogSlate: Window 'CellarDoor*' being destroyed
+[2019.05.29-19.31.17:865][656]LogSlate: Window 'CellarDoor*' being destroyed
+[2019.05.29-19.31.19:536][729]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.31.43:590][780]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Interactables/FrontDoor/ExitDoor.ExitDoor
+[2019.05.29-19.32.07:211][752]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.29-19.32.07:290][752]LogSavePackage: Moving '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Saved/ExitDoorFC1D48E248806BAF73CAD8BFBAFA63D3.tmp' to '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Content/Blueprints/Interactables/FrontDoor/ExitDoor.uasset'
+[2019.05.29-19.32.07:981][780]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.32.08:072][784]LogSlate: Window 'ExitDoor' being destroyed
+[2019.05.29-19.32.08:084][784]LogSlate: Window 'ExitDoor' being destroyed
+[2019.05.29-19.32.10:267][891]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.32.23:920][558]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Interactables/RoseDoor/RoseDoor.RoseDoor
+[2019.05.29-19.32.53:614][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.33.00:182][ 44]LogEditorTransaction: Undo Set Location
+[2019.05.29-19.33.09:043][406]LogEditorTransaction: Undo Modify Component(s)
+[2019.05.29-19.33.15:772][689]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.33.16:075][701]LogSlate: Window 'RoseDoor*' being destroyed
+[2019.05.29-19.33.16:100][701]LogSlate: Window 'RoseDoor*' being destroyed
+[2019.05.29-19.33.22:636][ 11]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Interactables/SecretDoor/SecretDoor.SecretDoor
+[2019.05.29-19.35.51:052][616]LogEditorTransaction: Undo Add Pin
+[2019.05.29-19.35.52:449][670]LogSavePackage: Moving '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Saved/SecretDoorFC0B38D54F33C10576267F8E05D1582E.tmp' to '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Content/Blueprints/Interactables/SecretDoor/SecretDoor.uasset'
+[2019.05.29-19.35.56:699][864]BlueprintLog: New page: Compile SecretDoor
+[2019.05.29-19.35.58:151][906]LogSlate: Window 'SecretDoor' being destroyed
+[2019.05.29-19.35.58:165][906]LogSlate: Window 'SecretDoor' being destroyed
+[2019.05.29-19.36.14:577][847]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.36.43:919][559]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.29-19.36.47:739][778]LogEditorViewport: Clicking on Actor (LMB): FbxScene_FinalMansionExterior_C (FbxScene_FinalMansionExterior)
+[2019.05.29-19.36.48:587][818]LogEditorViewport: Clicking on Actor (LMB): SecretDoor_C (SecretDoor)
+[2019.05.29-19.36.52:366][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.37.46:011][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.38.24:010][376]Cmd: TRANSACTION UNDO
+[2019.05.29-19.38.24:010][376]LogEditorTransaction: Undo Scale Actors
+[2019.05.29-19.38.40:125][323]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.29-19.38.50:612][940]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.38.50:695][945]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.29-19.38.50:722][945]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-19.38.50:722][945]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.05.29-19.38.50:727][945]LogPlayLevel: [PlayLevel] Compiling CellarDoor before play...
+[2019.05.29-19.38.51:001][945]LogPlayLevel: [PlayLevel] Compiling FbxScene_door before play...
+[2019.05.29-19.38.51:292][945]LogPlayLevel: [PlayLevel] Compiling ExitDoor before play...
+[2019.05.29-19.38.51:559][945]LogPlayLevel: [PlayLevel] Compiling RoseDoor before play...
+[2019.05.29-19.38.51:871][945]LogPlayLevel: PlayLevel: Blueprint regeneration took 1149 ms (4 blueprints)
+[2019.05.29-19.38.51:871][945]PIE: New page: PIE session: Mansion (May 29, 2019, 5:38:51 AM)
+[2019.05.29-19.38.51:871][945]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Mansion
+[2019.05.29-19.38.51:976][945]LogPlayLevel: PIE: StaticDuplicateObject took: (0.104842s)
+[2019.05.29-19.38.51:977][945]LogAIModule: Creating AISystem for world Mansion
+[2019.05.29-19.38.51:977][945]LogPlayLevel: PIE: World Init took: (0.000802s)
+[2019.05.29-19.38.51:977][945]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Mansion.Mansion to /Game/Maps/UEDPIE_0_Mansion.Mansion (0.105845s)
+[2019.05.29-19.38.52:023][945]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.29-19.38.52:046][945]LogInit: FAudioDevice initialized.
+[2019.05.29-19.38.52:078][945]LogLoad: Game class is 'GameModeBase'
+[2019.05.29-19.38.52:120][945]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Mansion.Mansion up for play (max tick rate 60) at 2019.05.29-12.38.52
+[2019.05.29-19.38.52:127][945]LogWorld: Bringing up level for play took: 0.047672
+[2019.05.29-19.38.52:145][945]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Mansion 1.54
+[2019.05.29-19.38.52:145][945]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-19.38.55:526][995]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.38.55:735][999]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.38.58:751][ 43]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.39.18:900][673]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-19.39.18:901][673]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-19.39.19:057][673]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.29-19.39.19:058][673]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-19.39.19:108][673]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-19.39.19:155][674]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2019.05.29-19.39.41:808][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.39.42:012][784]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Interactables/SecretDoor/SecretDoor.SecretDoor
+[2019.05.29-19.39.43:886][842]LogSlate: Window 'SecretDoor' being destroyed
+[2019.05.29-19.39.43:901][842]LogSlate: Window 'SecretDoor' being destroyed
+[2019.05.29-19.39.46:404][947]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.29-19.39.46:431][947]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-19.39.46:431][947]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.29-19.39.46:432][947]PIE: New page: PIE session: Mansion (May 29, 2019, 5:39:46 AM)
+[2019.05.29-19.39.46:434][947]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Mansion
+[2019.05.29-19.39.46:547][947]LogPlayLevel: PIE: StaticDuplicateObject took: (0.113399s)
+[2019.05.29-19.39.46:548][947]LogAIModule: Creating AISystem for world Mansion
+[2019.05.29-19.39.46:548][947]LogPlayLevel: PIE: World Init took: (0.000779s)
+[2019.05.29-19.39.46:548][947]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Mansion.Mansion to /Game/Maps/UEDPIE_0_Mansion.Mansion (0.114356s)
+[2019.05.29-19.39.46:593][947]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.29-19.39.46:616][947]LogInit: FAudioDevice initialized.
+[2019.05.29-19.39.46:651][947]LogLoad: Game class is 'GameModeBase'
+[2019.05.29-19.39.46:691][947]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Mansion.Mansion up for play (max tick rate 60) at 2019.05.29-12.39.46
+[2019.05.29-19.39.46:698][947]LogWorld: Bringing up level for play took: 0.044822
+[2019.05.29-19.39.46:714][947]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Mansion 0.11
+[2019.05.29-19.39.46:716][947]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-19.39.50:148][ 12]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.39.50:296][ 16]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.39.52:772][ 80]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.39.52:925][ 84]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.39.57:357][154]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.40.17:970][398]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-19.40.17:970][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-19.40.18:120][398]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.29-19.40.18:120][398]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-19.40.18:186][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-19.40.18:219][399]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2019.05.29-19.40.21:780][570]LogEditorViewport: Clicking on Actor (LMB): RoseDoor_C (RoseDoor)
+[2019.05.29-19.40.27:811][856]LogEditorViewport: Clicking on Actor (LMB): RoseDoor_C (RoseDoor)
+[2019.05.29-19.40.29:089][914]LogEditorViewport: Clicking on Actor (LMB): FbxScene_FinalMansionExterior_C (FbxScene_FinalMansionExterior)
+[2019.05.29-19.40.30:059][952]LogEditorViewport: Clicking on Actor (LMB): RoseDoor_C (RoseDoor)
+[2019.05.29-19.40.36:056][223]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.40.46:101][693]LogEditorViewport: Clicking on Actor (LMB): FbxScene_FinalMansionExterior_C (FbxScene_FinalMansionExterior)
+[2019.05.29-19.40.46:840][722]LogEditorViewport: Clicking on Actor (LMB): RoseDoor_C (RoseDoor)
+[2019.05.29-19.40.51:419][921]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.41.15:517][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.41.28:056][430]Cmd: DELETE
+[2019.05.29-19.41.28:057][430]Cmd: ACTOR DELETE
+[2019.05.29-19.41.28:085][430]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.29-19.41.28:230][430]LogEditorActor: Deleted Actor: RoseDoor_C
+[2019.05.29-19.41.28:276][430]LogEditorActor: Deleted 1 Actors (0.206 secs)
+[2019.05.29-19.41.31:700][560]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Interactables/RoseDoor/RoseDoor.RoseDoor
+[2019.05.29-19.42.02:698][730]LogSavePackage: Moving '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Saved/RoseDoor17131ED045C00F1F04CE31B09E019E99.tmp' to '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Content/Blueprints/Interactables/RoseDoor/RoseDoor.uasset'
+[2019.05.29-19.42.03:717][771]LogSlate: Window 'RoseDoor' being destroyed
+[2019.05.29-19.42.03:741][771]LogSlate: Window 'RoseDoor' being destroyed
+[2019.05.29-19.42.11:224][100]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.42.11:405][106]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Interactables/RoseDoor/RoseDoor.RoseDoor
+[2019.05.29-19.42.16:536][296]LogSlate: Window 'RoseDoor' being destroyed
+[2019.05.29-19.42.16:547][296]LogSlate: Window 'RoseDoor' being destroyed
+[2019.05.29-19.42.24:225][646]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.42.27:037][772]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.42.32:741][ 39]LogEditorViewport: Clicking on Actor (LMB): RoseDoor_C (RoseDoor)
+[2019.05.29-19.42.33:719][ 83]LogEditorViewport: Clicking on Actor (LMB): RoseDoor_C (RoseDoor2)
+[2019.05.29-19.42.34:706][126]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.42.38:849][319]LogEditorViewport: Clicking on Actor (LMB): RoseDoor_C (RoseDoor)
+[2019.05.29-19.42.41:023][420]LogEditorViewport: Clicking on Actor (LMB): RoseDoor_C (RoseDoor2)
+[2019.05.29-19.42.42:455][485]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.42.50:931][886]Cmd: DELETE
+[2019.05.29-19.42.50:931][886]Cmd: ACTOR DELETE
+[2019.05.29-19.42.50:984][886]LogEditorActor: Deleted Actor: RoseDoor_C
+[2019.05.29-19.42.51:035][886]LogEditorActor: Deleted 1 Actors (0.103 secs)
+[2019.05.29-19.42.53:235][990]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.42.53:414][996]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Interactables/RoseDoor/RoseDoor.RoseDoor
+[2019.05.29-19.43.24:193][197]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.44.05:881][843]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.44.18:380][335]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.45.03:660][118]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.29-19.45.05:250][118]LogSavePackage: Moving '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Saved/Mansion_Auto11CB8021241EBC9BB8503C1B48223B2F9.tmp' to '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Saved/Autosaves/Game/Maps/Mansion_Auto1.umap'
+[2019.05.29-19.45.05:258][118]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Mansion' took 1.569
+[2019.05.29-19.45.05:258][118]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.569
+[2019.05.29-19.45.05:273][118]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Interactables/CellarDoor/CellarDoor] ([1] browsable assets)...
+[2019.05.29-19.45.05:315][118]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Interactables/CellarDoor/CellarDoor.CellarDoor]
+[2019.05.29-19.45.05:315][118]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Interactables/CellarDoor/CellarDoor]
+[2019.05.29-19.45.05:360][118]LogSavePackage: Moving '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Saved/CellarDoor_Auto17370F4394BD3EDC1F488E5B7B06A9F4A.tmp' to '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Saved/Autosaves/Game/Blueprints/Interactables/CellarDoor/CellarDoor_Auto1.uasset'
+[2019.05.29-19.45.05:362][118]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Interactables/Door/FbxScene_door] ([1] browsable assets)...
+[2019.05.29-19.45.05:402][118]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Interactables/Door/FbxScene_door.FbxScene_door]
+[2019.05.29-19.45.05:402][118]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Interactables/Door/FbxScene_door]
+[2019.05.29-19.45.05:443][118]LogSavePackage: Moving '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Saved/FbxScene_door_Auto162B13F6147E56E915307938FA49520AE.tmp' to '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Saved/Autosaves/Game/Blueprints/Interactables/Door/FbxScene_door_Auto1.uasset'
+[2019.05.29-19.45.05:445][118]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Interactables/RoseDoor/RoseDoor] ([1] browsable assets)...
+[2019.05.29-19.45.05:484][118]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Interactables/RoseDoor/RoseDoor.RoseDoor]
+[2019.05.29-19.45.05:484][118]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Interactables/RoseDoor/RoseDoor]
+[2019.05.29-19.45.05:528][118]LogSavePackage: Moving '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Saved/RoseDoor_Auto1C253EFE44AD483C569DC309265EA6833.tmp' to '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Saved/Autosaves/Game/Blueprints/Interactables/RoseDoor/RoseDoor_Auto1.uasset'
+[2019.05.29-19.45.05:529][118]LogFileHelpers: Auto-saving content packages took 0.259
+[2019.05.29-19.45.52:029][962]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.29-19.45.57:198][160]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.29-19.46.02:826][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.47.29:794][822]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.48.54:277][124]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.29-19.48.54:369][124]LogSavePackage: Moving '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Saved/RoseDoor11F4CFDE449653B19E0D6D916491CC32.tmp' to '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Content/Blueprints/Interactables/RoseDoor/RoseDoor.uasset'
+[2019.05.29-19.48.55:499][167]LogSlate: Window 'RoseDoor' being destroyed
+[2019.05.29-19.48.55:521][167]LogSlate: Window 'RoseDoor' being destroyed
+[2019.05.29-19.48.59:881][361]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Interactables/RoseDoor/RoseDoor.RoseDoor
+[2019.05.29-19.49.08:372][673]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.49.14:718][912]LogSlate: Window 'RoseDoor' being destroyed
+[2019.05.29-19.49.14:742][912]LogSlate: Window 'RoseDoor' being destroyed
+[2019.05.29-19.49.20:230][ 98]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Interactables/Door/FbxScene_door.FbxScene_door
+[2019.05.29-19.49.30:485][490]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.49.34:244][626]LogEditorTransaction: Undo Paste Component(s)
+[2019.05.29-19.49.52:175][238]LogUObjectHash: Warning: Ambiguous search, could be BoxComponent /Engine/Transient.Box_GEN_VARIABLE or BoxComponent /Engine/Transient.Box_GEN_VARIABLE
+[2019.05.29-19.50.00:593][562]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.50.20:627][266]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.29-19.50.33:706][624]LogSlate: Window 'FbxScene_door*' being destroyed
+[2019.05.29-19.50.33:733][624]LogSlate: Window 'FbxScene_door*' being destroyed
+[2019.05.29-19.50.42:329][920]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Interactables/RoseDoor/RoseDoor.RoseDoor
+[2019.05.29-19.50.53:466][338]LogSlate: Window 'RoseDoor' being destroyed
+[2019.05.29-19.50.53:477][338]LogSlate: Window 'RoseDoor' being destroyed
+[2019.05.29-19.51.05:213][744]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Interactables/Door/FbxScene_door.FbxScene_door
+[2019.05.29-19.51.33:511][619]LogSlate: Window 'FbxScene_door*' being destroyed
+[2019.05.29-19.51.48:562][202]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Interactables/RoseDoor/RoseDoor.RoseDoor
+[2019.05.29-19.53.45:154][612]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.54.31:267][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.55.14:973][927]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.29-19.55.15:053][927]LogSavePackage: Moving '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Saved/FbxScene_door9FFDC0C94F7741216B5AE2A54F5A7A7A.tmp' to '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Content/Blueprints/Interactables/Door/FbxScene_door.uasset'
+[2019.05.29-19.55.22:745][330]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.05.29-19.55.39:570][941]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Interactables/FrontDoor/ExitDoor.ExitDoor
+[2019.05.29-19.55.52:782][430]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.56.05:221][912]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.56.15:581][313]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.29-19.56.34:242][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.29-19.56.34:331][ 38]LogSavePackage: Moving '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Saved/ExitDoor5C85344F4BE46F5562051CAA4A5D3BC3.tmp' to '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Content/Blueprints/Interactables/FrontDoor/ExitDoor.uasset'
+[2019.05.29-19.56.36:545][123]LogSlate: Window 'ExitDoor' being destroyed
+[2019.05.29-19.56.36:576][123]LogSlate: Window 'ExitDoor' being destroyed
+[2019.05.29-19.56.58:534][915]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Interactables/FrontDoor/ExitDoor.ExitDoor
+[2019.05.29-19.57.12:754][455]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.57.12:855][459]LogSlate: Window 'ExitDoor' being destroyed
+[2019.05.29-19.57.12:881][459]LogSlate: Window 'ExitDoor' being destroyed
+[2019.05.29-19.57.26:445][944]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Interactables/CellarDoor/CellarDoor.CellarDoor
+[2019.05.29-19.58.07:943][529]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.29-19.58.08:045][529]LogSavePackage: Moving '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Saved/CellarDoor93899D21409FB933C64C0C8D31CC3683.tmp' to '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Content/Blueprints/Interactables/CellarDoor/CellarDoor.uasset'
+[2019.05.29-19.58.14:341][775]LogSavePackage: Moving '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Saved/CellarDoor4EE8EF5B45D435C974CAE090D6E75EC3.tmp' to '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Content/Blueprints/Interactables/CellarDoor/CellarDoor.uasset'
+[2019.05.29-19.58.15:616][825]LogSlate: Window 'CellarDoor' being destroyed
+[2019.05.29-19.58.15:642][825]LogSlate: Window 'CellarDoor' being destroyed
+[2019.05.29-19.58.28:820][437]LogEditorViewport: Clicking on Actor (LMB): FbxScene_FinalMansionExterior_C (FbxScene_FinalMansionExterior)
+[2019.05.29-19.58.33:397][638]LogEditorViewport: Clicking on Actor (LMB): FbxScene_FinalMansionExterior_C (FbxScene_FinalMansionExterior)
+[2019.05.29-19.58.43:384][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-19.58.43:469][ 63]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.29-19.58.43:511][ 63]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-19.58.43:511][ 63]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.05.29-19.58.43:518][ 63]LogPlayLevel: [PlayLevel] Compiling CellarDoor before play...
+[2019.05.29-19.58.43:880][ 63]LogPlayLevel: [PlayLevel] Compiling FbxScene_door before play...
+[2019.05.29-19.58.44:290][ 63]LogPlayLevel: [PlayLevel] Compiling ExitDoor before play...
+[2019.05.29-19.58.44:643][ 63]LogPlayLevel: [PlayLevel] Compiling RoseDoor before play...
+[2019.05.29-19.58.45:085][ 63]LogPlayLevel: PlayLevel: Blueprint regeneration took 1574 ms (4 blueprints)
+[2019.05.29-19.58.45:086][ 63]PIE: New page: PIE session: Mansion (May 29, 2019, 5:58:45 AM)
+[2019.05.29-19.58.45:086][ 63]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Mansion
+[2019.05.29-19.58.45:204][ 63]LogPlayLevel: PIE: StaticDuplicateObject took: (0.117093s)
+[2019.05.29-19.58.45:204][ 63]LogAIModule: Creating AISystem for world Mansion
+[2019.05.29-19.58.45:204][ 63]LogPlayLevel: PIE: World Init took: (0.000708s)
+[2019.05.29-19.58.45:204][ 63]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Mansion.Mansion to /Game/Maps/UEDPIE_0_Mansion.Mansion (0.118007s)
+[2019.05.29-19.58.45:276][ 63]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.29-19.58.45:299][ 63]LogInit: FAudioDevice initialized.
+[2019.05.29-19.58.45:331][ 63]LogLoad: Game class is 'GameModeBase'
+[2019.05.29-19.58.45:375][ 63]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Mansion.Mansion up for play (max tick rate 60) at 2019.05.29-12.58.45
+[2019.05.29-19.58.45:382][ 63]LogWorld: Bringing up level for play took: 0.050362
+[2019.05.29-19.58.45:400][ 63]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Mansion 2.795
+[2019.05.29-19.58.45:400][ 63]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-19.58.47:869][ 94]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.58.48:008][ 96]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.58.57:004][229]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.58.57:172][232]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.58.58:394][252]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-19.59.05:209][408]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-19.59.05:210][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-19.59.05:302][408]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.29-19.59.05:302][408]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-19.59.05:349][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-19.59.05:379][409]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2019.05.29-20.00.17:774][488]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.29-20.00.17:800][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mansion" FILE="../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Content/Maps/Mansion.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.29-20.00.19:342][488]LogSavePackage: Moving '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Saved/MansionEA303E674CBDEF8B0D84128D380D6C28.tmp' to '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Content/Maps/Mansion.umap'
+[2019.05.29-20.00.19:386][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mansion_BuiltData" FILE="../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Content/Maps/Mansion_BuiltData.uasset" SILENT=true
+[2019.05.29-20.00.21:406][488]LogSavePackage: Moving '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Saved/Mansion_BuiltData70523787487085508CF11B995EC9346D.tmp' to '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Content/Maps/Mansion_BuiltData.uasset'
+[2019.05.29-20.00.26:427][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-20.03.38:537][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-20.03.38:620][653]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.29-20.03.38:645][653]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-20.03.38:645][653]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.29-20.03.38:646][653]PIE: New page: PIE session: Mansion (May 29, 2019, 6:03:38 AM)
+[2019.05.29-20.03.38:647][653]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Mansion
+[2019.05.29-20.03.38:759][653]LogPlayLevel: PIE: StaticDuplicateObject took: (0.112354s)
+[2019.05.29-20.03.38:760][653]LogAIModule: Creating AISystem for world Mansion
+[2019.05.29-20.03.38:760][653]LogPlayLevel: PIE: World Init took: (0.000704s)
+[2019.05.29-20.03.38:760][653]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Mansion.Mansion to /Game/Maps/UEDPIE_0_Mansion.Mansion (0.113290s)
+[2019.05.29-20.03.38:833][653]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.29-20.03.38:856][653]LogInit: FAudioDevice initialized.
+[2019.05.29-20.03.38:892][653]LogLoad: Game class is 'GameModeBase'
+[2019.05.29-20.03.38:935][653]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Mansion.Mansion up for play (max tick rate 60) at 2019.05.29-13.03.38
+[2019.05.29-20.03.38:942][653]LogWorld: Bringing up level for play took: 0.049522
+[2019.05.29-20.03.38:960][653]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Mansion 0.355
+[2019.05.29-20.03.38:960][653]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-20.03.41:230][684]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-20.03.41:350][686]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-20.03.45:506][745]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-20.03.51:058][917]LogBlueprintUserMessages: [FbxScene_RoseKeyTextured2_3] Hello
+[2019.05.29-20.03.56:938][152]LogBlueprintUserMessages: [FbxScene_RoseKeyTextured2_3] false
+[2019.05.29-20.04.38:525][854]LogBlueprintUserMessages: [FbxScene_door3_18] Hello
+[2019.05.29-20.04.38:701][858]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-20.04.50:253][202]LogBlueprintUserMessages: [FbxScene_door4_21] Hello
+[2019.05.29-20.04.50:379][206]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-20.05.00:626][381]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-20.05.00:627][381]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-20.05.00:771][381]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.29-20.05.00:771][381]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-20.05.00:829][381]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-20.05.00:871][382]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2019.05.29-20.05.53:169][168]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-20.05.53:259][173]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.29-20.05.53:282][173]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-20.05.53:283][173]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.29-20.05.53:283][173]PIE: New page: PIE session: Mansion (May 29, 2019, 6:05:53 AM)
+[2019.05.29-20.05.53:283][173]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Mansion
+[2019.05.29-20.05.53:397][173]LogPlayLevel: PIE: StaticDuplicateObject took: (0.114540s)
+[2019.05.29-20.05.53:398][173]LogAIModule: Creating AISystem for world Mansion
+[2019.05.29-20.05.53:398][173]LogPlayLevel: PIE: World Init took: (0.000981s)
+[2019.05.29-20.05.53:398][173]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Mansion.Mansion to /Game/Maps/UEDPIE_0_Mansion.Mansion (0.115790s)
+[2019.05.29-20.05.53:450][173]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.29-20.05.53:473][173]LogInit: FAudioDevice initialized.
+[2019.05.29-20.05.53:509][173]LogLoad: Game class is 'GameModeBase'
+[2019.05.29-20.05.53:552][173]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Mansion.Mansion up for play (max tick rate 60) at 2019.05.29-13.05.53
+[2019.05.29-20.05.53:558][173]LogWorld: Bringing up level for play took: 0.047988
+[2019.05.29-20.05.53:576][173]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Mansion 0.971
+[2019.05.29-20.05.53:576][173]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-20.05.56:831][216]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-20.05.57:056][219]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-20.05.59:512][251]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/FPS_Controller.FPS_Controller_C:ExecuteUbergraph_FPS_Controller'!
+[2019.05.29-20.06.06:005][344]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-20.06.06:005][344]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-20.06.06:151][344]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.29-20.06.06:151][344]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Mansion.Mansion:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion' with GeneratedClass '/Game/Maps/Mansion.Mansion_C' with ClassGeneratedBy '/Game/Maps/Mansion.Mansion:PersistentLevel.Mansion'
+[2019.05.29-20.06.06:202][344]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-20.06.06:233][345]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2019.05.29-20.06.29:657][674]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-20.07.04:418][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mansion" FILE="../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Content/Maps/Mansion.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.29-20.07.05:940][643]LogSavePackage: Moving '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Saved/Mansion4B7F927246E07E1F6314AAAE6A86A19F.tmp' to '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Content/Maps/Mansion.umap'
+[2019.05.29-20.07.05:976][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mansion_BuiltData" FILE="../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Content/Maps/Mansion_BuiltData.uasset" SILENT=true
+[2019.05.29-20.07.07:963][643]LogSavePackage: Moving '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Saved/Mansion_BuiltDataAC40C211465FF82390778F84ECA4A3AD.tmp' to '../../../../../../Users/shumw/Documents/Unreal Projects/VRProject/Content/Maps/Mansion_BuiltData.uasset'
+[2019.05.29-20.07.17:484][147]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-20.07.18:880][216]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.29-20.07.24:393][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-20.07.24:594][479]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Models/NPCs/Father/Father/FbxScene_Father.FbxScene_Father
+[2019.05.29-20.07.38:695][972]LogSlate: Window 'FbxScene_Father' being destroyed
+[2019.05.29-20.07.38:720][972]LogSlate: Window 'FbxScene_Father' being destroyed
+[2019.05.29-20.08.29:285][496]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-20.08.58:631][905]Cmd: MAP IMPORTADD FILE="../../../../../../Users/shumw/Documents/3DProject/Attic Key.png"
+[2019.05.29-20.08.58:670][905]LogFactory: FactoryCreateNew: World with WorldFactory (1 0 ../../../../../../Users/shumw/Documents/3DProject/Attic Key.png)
