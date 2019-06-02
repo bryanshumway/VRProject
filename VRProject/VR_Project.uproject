@@ -8,5 +8,8 @@
 			"Name": "OnlineSubsystemOculus",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditor"
 	]
 }
